@@ -1,0 +1,15 @@
+* {
+  font-family: 'Roboto Mono', monospace;
+}
+
+body {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+
+  color: aliceblue;
+  background: rgb(178,0,78);
+  background: radial-gradient(circle, rgba(178,0,78,1) 0%, rgba(148,174,233,1) 100%);
+}
